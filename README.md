@@ -1,6 +1,6 @@
-#ReadLine By Line
+# ReadLine By Line
 a nodejs module to read data line by line.
-Installation:
+### Installation:
 ```shell
 npm install readlinebyline
 ```
