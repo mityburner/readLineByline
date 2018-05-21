@@ -1,0 +1,15 @@
+{
+  "name": "readlinebyline",
+  "version": "1.0.2",
+  "description": "a nodejs module to read file line by line.",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readline",
+    "linebyline"
+  ],
+  "author": "mityburner@gmail.com",
+  "license": "ISC"
+}
