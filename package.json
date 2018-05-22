@@ -1,6 +1,6 @@
 {
   "name": "readlinebyline",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a nodejs module to read file line by line.",
   "main": "read.js",
   "scripts": {
@@ -10,6 +10,13 @@
     "readline",
     "linebyline"
   ],
+  "engines": {
+      "node": ">= 8.11.1"
+  },
   "author": "mityburner@gmail.com",
+  "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com:mityburner/readLineByline.git"
+  },
   "license": "ISC"
 }
