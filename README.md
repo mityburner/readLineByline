@@ -36,7 +36,7 @@ readline.on('end', () => console.log('end'));
 
 ```
 ## Documentation
-parameter could be a file path or Readable stream.
+parameter could be a file path or Readable stream.   
 parameter : file path | Readable stream
 
 ```shell
