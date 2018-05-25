@@ -35,6 +35,18 @@ readline.on('line', (line) => {
 readline.on('end', () => console.log('end')); 
 
 ```
+## Documentation
+parameter could be a file path or Readable stream.
+parameter : file path | Readable stream
 
+```shell
+const readline = new ReadLineByLine(parameter);
+```
+for example: 
+```javascript
+const readline = new ReadLineByLine('data.txt');
+// or
+const readline = new ReadLineByLine(fs.createReadStream('data.txt'));
+```
 
 
