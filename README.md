@@ -39,7 +39,7 @@ readline.on('end', () => console.log('end'));
 parameter could be a file path or Readable stream.   
 parameter : file path | Readable stream
 
-```shell
+```
 const readline = new ReadLineByLine(parameter);
 ```
 for example: 
